@@ -1,0 +1,130 @@
+body{
+  width: 100%
+}
+
+.section-image{
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  min-height: 37em;
+  padding-top: 4em;
+	padding-bottom: 4em;
+}
+
+.brandNameSpace{
+    font-size: 14px;
+}
+
+.yellow_btn-background {
+  border-radius: 1px;
+  background-color: rgb(200, 179, 0);
+  margin-top: 5px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+div ul li a{
+   color:white;
+
+}
+
+/*div ul li a:hover{
+   background:none;
+
+}*/
+
+.border-yellow {
+    border-bottom-color: rgb(200, 179, 0);
+}
+
+
+.border-show {
+  border-width: 0.25px;
+  border-color: rgba(248, 248, 248,0.42);
+  border-style: solid;
+  border-radius: 4px;
+  background-color: rgba(18, 18, 18,0.42);
+  padding: 3px;
+}
+
+.no-border-radius input{
+    border-radius: 0;
+    margin-left: 0;
+    margin-right: 0;
+    border-width: 0.25px;
+    border-color: rgb(248, 248, 248);
+    border-style: solid;
+    border-radius: 2px;
+    background-color: rgb(248, 248, 248);
+    opacity: 0.941;
+    box-shadow: 0px 5px 5px 0px rgba(1, 1, 1, 0.12);
+}
+
+.no-border-radius select{
+    border-radius: 0;
+    margin-left: 0;
+    margin-right: 0;
+    border-width: 0.25px;
+    border-color: rgb(248, 248, 248);
+    border-style: solid;
+    border-radius: 2px;
+    background-color: rgb(248, 248, 248);
+    opacity: 0.941;
+    box-shadow: 0px 5px 5px 0px rgba(1, 1, 1, 0.12);
+}
+
+.no-border-radius button{
+    border-radius: 2px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.white-box {
+  background-color: rgb(254, 254, 254);
+  box-shadow: 0px 5px 20px 0px rgba(1, 1, 1, 0.11);
+}
+
+.header-text-gap {
+  margin-top: 150px;
+  margin-bottom:50px;
+  /*line-height: 0.667;*/
+  font-size: 30px;
+  font-family: "OpenSans";
+}
+
+.icon-left
+{
+  margin-left: 20px;
+}
+
+.row-gap div{
+    margin-bottom: 30px;
+}
+
+.radius-zero{
+  border-radius: 0;
+}
+
+
+/*-- Media Query --*/
+@media screen and (max-width: 1024px){
+
+}
+@media screen and (max-width: 767px){
+
+	.section-image{background-size: auto 100%;}
+
+}
+@media screen and (max-width: 640px){
+
+}
+@media screen and (max-width: 480px){
+
+}
+@media screen and (max-width: 360px){
+
+}

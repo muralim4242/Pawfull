@@ -1,0 +1,981 @@
+{
+    "adoption": {
+        "cats": [{
+            "active": true,
+            "address": {
+                "area": "varthu",
+                "city": "bangalore",
+                "direction": {
+                    "lan": "60",
+                    "lat": "56"
+                },
+                "doorNo": "#84",
+                "floor": "1st",
+                "landmark": "near lakshmi gym",
+                "nationlity": "indian",
+                "pincode": "560087",
+                "state": "karnataka",
+                "street": "kote bheedi 4th"
+            },
+            "age": "fasfa",
+            "breed": "asdasd",
+            "details": "asdasfdfasf",
+            "isAdapted": false,
+            "name": "tommy",
+            "sex": "male",
+            "userId": "-KasD7V4oD5imyAufXd1",
+            "vaccinated": true
+        }],
+        "dogs": [{
+            "active": true,
+            "address": {
+                "area": "varthu",
+                "city": "bangalore",
+                "direction": {
+                    "lan": "60",
+                    "lat": "56"
+                },
+                "doorNo": "#84",
+                "floor": "1st",
+                "landmark": "near lakshmi gym",
+                "nationlity": "indian",
+                "pincode": "560087",
+                "state": "karnataka",
+                "street": "kote bheedi 4th"
+            },
+            "age": "fasfa",
+            "breed": "asdasd",
+            "details": "asdasfdfasf",
+            "isAdopted": false,
+            "name": "tommy",
+            "sex": "male",
+            "userId": "-KasD7V3dugNdyItuIq2",
+            "vacinated": true
+        }]
+    },
+    "app": {
+        "name": "Todo App",
+        "version": "1.0.0"
+    },
+    "bookmarks": {
+        "-KarnBllK558E-GtNc7b": [{
+            "active": true,
+            "contentId": 0,
+            "timestamp": "3424234"
+        }]
+    },
+    "contents": {
+        "0": {
+            "active": true,
+            "authName": "asdasd",
+            "category": "male",
+            "content": "asdasfdfasf",
+            "designation": "fasfa",
+            "headline": "asdasd",
+            "timestamp": "3424234",
+            "userId": "-KarnBllK558E-GtNc7b"
+        },
+        "-Kb1_8XvbPkdscT63rZR": {
+            "active": true,
+            "authName": "asdasd",
+            "category": "male",
+            "content": "asdasfdfasf",
+            "designation": "fasfa",
+            "headline": "asdasd",
+            "timestamp": "3424234",
+            "userId": "-KarnBllK558E-GtNc7b"
+        }
+    },
+    "isRunning": true,
+    "reviewAndRatings": {
+        "-KarnBllK558E-GtNc7b": [{
+            "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+            "rating": 4,
+            "reviewTitle": "good one",
+            "timestamp": 11231241442,
+            "userId": 123
+        }],
+        "-KarnSi8CIFayIMIoXc-": [{
+            "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+            "rating": 4,
+            "reviewTitle": "good one",
+            "timestamp": 11231241442,
+            "userId": 123
+        }],
+        "boarding": {
+            "mediplus": [{
+                "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+                "rating": 4,
+                "reviewTitle": "good one",
+                "timestamp": 1241341341
+            }]
+        },
+        "day care": {
+            "mediplus": [{
+                "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+                "rating": 4,
+                "reviewTitle": "good one",
+                "timestamp": 11231241442,
+                "userId": 123
+            }]
+        },
+        "grooming": {
+            "mediplus": [{
+                "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+                "rating": 4,
+                "reviewTitle": "good one",
+                "timestamp": 11231241442,
+                "userId": 123
+            }]
+        },
+        "hospitals": {
+            "mediplus": [{
+                "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+                "rating": 4,
+                "reviewTitle": "good one",
+                "timestamp": 11231241442,
+                "userId": 123
+            }]
+        },
+        "labs": {
+            "mediplus": [{
+                "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+                "rating": 4,
+                "reviewTitle": "good one",
+                "timestamp": 11231241442,
+                "userId": 123
+            }]
+        },
+        "outing": {
+            "mediplus": [{
+                "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+                "rating": 4,
+                "reviewTitle": "good one",
+                "timestamp": 11231241442,
+                "userId": 123
+            }]
+        },
+        "pharmacy": {
+            "mediplus": [{
+                "description": "sdfjkafdjdskjfhjasdhfhaskdjhfsdf",
+                "rating": 4,
+                "reviewTitle": "good one",
+                "timestamp": 11231241442,
+                "userId": 123
+            }]
+        }
+    },
+    "services": {
+        "boarding": {
+            "mediplus": {
+                "active": true,
+                "address": {
+                    "area": "varthu",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "60",
+                        "lat": "56"
+                    },
+                    "doorNo": "#84",
+                    "floor": "1st",
+                    "landmark": "near lakshmi gym",
+                    "nationlity": "indian",
+                    "pincode": "560087",
+                    "state": "karnataka",
+                    "street": "kote bheedi 4th"
+                },
+                "description": "asdfdfadf",
+                "email": "asdas@sdas.com",
+                "facilities": [{
+                    "cost": 100,
+                    "name": "scanning"
+                }, {
+                    "cost": 100,
+                    "name": "xray"
+                }],
+                "name": "mediplus",
+                "phoneNumber": "7795929033",
+                "timings": {
+                    "fri": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "mon": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sat": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sun": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "thur": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "tues": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "wed": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }]
+                },
+                "website": "www.narayan.com"
+            }
+        },
+        "day care": {
+            "xyz": {
+                "active": true,
+                "address": {
+                    "area": "varthu",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "60",
+                        "lat": "56"
+                    },
+                    "doorNo": "#84",
+                    "floor": "1st",
+                    "landmark": "near lakshmi gym",
+                    "nationlity": "indian",
+                    "pincode": "560087",
+                    "state": "karnataka",
+                    "street": "kote bheedi 4th"
+                },
+                "cost": "25 hr",
+                "email": "asdas@sdas.com",
+                "name": "xya",
+                "phoneNumber": "7795929033",
+                "subtile": "asdasfd",
+                "timings": {
+                    "fri": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "mon": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sat": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sun": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "thur": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "tues": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "wed": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }]
+                },
+                "website": "www.narayan.com"
+            }
+        },
+        "grooming": {
+            "xyz": {
+                "active": true,
+                "address": {
+                    "area": "varthu",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "60",
+                        "lat": "56"
+                    },
+                    "doorNo": "#84",
+                    "floor": "1st",
+                    "landmark": "near lakshmi gym",
+                    "nationlity": "indian",
+                    "pincode": "560087",
+                    "state": "karnataka",
+                    "street": "kote bheedi 4th"
+                },
+                "cost": "25 hr",
+                "email": "asdas@sdas.com",
+                "name": "xya",
+                "phoneNumber": "7795929033",
+                "subtile": "asdasfd",
+                "timings": {
+                    "fri": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "mon": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sat": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sun": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "thur": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "tues": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "wed": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }]
+                },
+                "website": "www.narayan.com"
+            }
+        },
+        "hospitals": {
+            "bph": {
+                "active": true,
+                "address": {
+                    "area": "Thubarahalli",
+                    "city": "Bangalore",
+                    "direction": {
+                        "lan": 56,
+                        "lat": 45
+                    },
+                    "doorNo": "#22",
+                    "floor": "ground",
+                    "landmark": "near KFC",
+                    "nationlity": "indian",
+                    "pincode": "560066",
+                    "state": "Karnataka",
+                    "street": "varathur-airport road"
+                },
+                "doctors": {
+                    "-KarnBllK558E-GtNc7b": true,
+                    "-KarnSi8CIFayIMIoXc-": true
+                },
+                "email": "bph@gmail.com",
+                "facilites": ["scanning", "xray"],
+                "name": "Bangalore pet hospital",
+                "phoneNumber": 7760187320,
+                "timings": {
+                    "fri": [null, {
+                        "end": "7.30 pm",
+                        "start": "9 am"
+                    }],
+                    "mon": [null, {
+                        "end": "7.30 pm",
+                        "start": "9 am"
+                    }],
+                    "sat": [null, {
+                        "end": "1.30 pm",
+                        "start": "9 am"
+                    }],
+                    "sun": [null, {
+                        "end": "1.30 pm",
+                        "start": "9 am"
+                    }],
+                    "thur": [null, {
+                        "end": "7.30 pm",
+                        "start": "9 am"
+                    }],
+                    "tues": [null, {
+                        "end": "7.30 pm",
+                        "start": "9 am"
+                    }],
+                    "wed": [null, {
+                        "end": "7.30 pm",
+                        "start": "9 am"
+                    }]
+                },
+                "website": "www.bph.com"
+            },
+            "colambia": {
+                "active": true,
+                "address": {
+                    "area": "varthu",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "60",
+                        "lat": "56"
+                    },
+                    "doorNo": "#84",
+                    "floor": "1st",
+                    "landmark": "near lakshmi gym",
+                    "nationlity": "indian",
+                    "pincode": "560087",
+                    "state": "karnataka",
+                    "street": "kote bheedi 4th"
+                },
+                "doctors": {
+                    "-KarnBllK558E-GtNc7b": true,
+                    "-KarnSi8CIFayIMIoXc-": true
+                },
+                "email": "asdas@sdas.com",
+                "facilities": ["scanning", "xray"],
+                "name": "narayan multi specialist",
+                "phoneNumber": "7795929033",
+                "timings": {
+                    "fri": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "mon": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sat": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sun": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "thur": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "tues": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "wed": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }]
+                },
+                "website": "www.colombia.com"
+            },
+            "dogster": {
+                "active": true,
+                "address": {
+                    "area": "whitefield",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "88",
+                        "lat": "35.88"
+                    },
+                    "doorNo": "#12",
+                    "floor": "ground",
+                    "landmark": "near post office",
+                    "nationlity": "India",
+                    "pincode": 560066,
+                    "state": "karnataka",
+                    "street": "ITPL main road"
+                },
+                "doctors": {
+                    "-KarnBllK558E-GtNc7b": true,
+                    "-KarnSi8CIFayIMIoXc-": true
+                },
+                "email": "www.dogster.com",
+                "facilities": ["xray", "scanning", "ICU"],
+                "name": "Dogster pet clinic",
+                "phoneNumber": "7654234356",
+                "timings": {
+                    "fri": [null, {
+                        "end": "6.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "mon": [null, {
+                        "end": "\"6.00 p",
+                        "start": "9.00 am"
+                    }, {
+                        "end": "4.00 pm",
+                        "start": "2.00 pm"
+                    }],
+                    "sat": [null, {
+                        "end": "6.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "sun": [null, {
+                        "end": "6.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "thur": [null, {
+                        "end": "6.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "tues": [null, {
+                        "end": "6.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "wed": [null, {
+                        "end": "6.00 pm",
+                        "start": "9.00 am"
+                    }]
+                },
+                "website": "www.dogster.in"
+            },
+            "narayana": {
+                "active": true,
+                "address": {
+                    "area": "varthu",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "60",
+                        "lat": "56"
+                    },
+                    "doorNo": "#84",
+                    "floor": "1st",
+                    "landmark": "near lakshmi gym",
+                    "nationlity": "indian",
+                    "pincode": "560087",
+                    "state": "karnataka",
+                    "street": "kote bheedi 4th"
+                },
+                "doctors": {
+                    "-KarnBllK558E-GtNc7b": true,
+                    "-KarnSi8CIFayIMIoXc-": true
+                },
+                "email": "asdas@sdas.com",
+                "facilities": ["scanning", "xray"],
+                "name": "narayan multi specialist",
+                "phoneNumber": "7795929033",
+                "timings": {
+                    "fri": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "mon": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sat": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sun": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "thur": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "tues": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "wed": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }]
+                },
+                "website": "www.narayan.com"
+            }
+        },
+        "labs": {
+            "krish": {
+                "active": true,
+                "address": {
+                    "area": "varthu",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "60",
+                        "lat": "56"
+                    },
+                    "doorNo": "#84",
+                    "floor": "1st",
+                    "landmark": "near lakshmi gym",
+                    "nationlity": "indian",
+                    "pincode": "560087",
+                    "state": "karnataka",
+                    "street": "kote bheedi 4th"
+                },
+                "email": "asdas@sdas.com",
+                "facilities": [{
+                    "cost": 100,
+                    "name": "scanning"
+                }, {
+                    "cost": 100,
+                    "name": "xray"
+                }],
+                "name": "krishna",
+                "phoneNumber": "7795929033",
+                "timings": {
+                    "fri": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "mon": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sat": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sun": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "thur": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "tues": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "wed": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }]
+                },
+                "website": "www.narayan.com"
+            },
+            "testhouse": {
+                "active": true,
+                "address": {
+                    "area": "hebbal",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "77.33",
+                        "lat": "34.87"
+                    },
+                    "doorNo": "#65",
+                    "floor": "1st",
+                    "landmark": "near police station",
+                    "nationlity": "india",
+                    "pincode": "785644",
+                    "state": "Karnataka",
+                    "street": "RT Nagar main road"
+                },
+                "email": "bloreth@yahoo.com",
+                "facilities": [{
+                    "cost": "200",
+                    "name": "scanning"
+                }, {
+                    "cost": "500",
+                    "name": "CT scan"
+                }],
+                "name": "bangalore test house",
+                "phoneNumber": "8765677789",
+                "timings": {
+                    "fri": [null, {
+                        "end": "5.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "mon": [null, {
+                        "end": "5.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "sat": [null, {
+                        "end": "5.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "sun": [null, {
+                        "end": "5.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "thur": [null, {
+                        "end": "5.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "tues": [null, {
+                        "end": "5.00 pm",
+                        "start": "9.00 am"
+                    }],
+                    "wed": [null, {
+                        "end": "5.00 pm",
+                        "start": "9.00 am"
+                    }]
+                },
+                "website": "www.bth.com"
+            }
+        },
+        "outing": {
+            "xyz": {
+                "active": true,
+                "address": {
+                    "area": "varthu",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "60",
+                        "lat": "56"
+                    },
+                    "doorNo": "#84",
+                    "floor": "1st",
+                    "landmark": "near lakshmi gym",
+                    "nationlity": "indian",
+                    "pincode": "560087",
+                    "state": "karnataka",
+                    "street": "kote bheedi 4th"
+                },
+                "cost": "25 hr",
+                "email": "asdas@sdas.com",
+                "name": "xya",
+                "phoneNumber": "7795929033",
+                "subtile": "asdasfd",
+                "timings": {
+                    "fri": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "mon": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sat": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sun": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "thur": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "tues": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "wed": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }]
+                },
+                "website": "www.narayan.com"
+            }
+        },
+        "pharmacy": {
+            "mediplus": {
+                "active": true,
+                "address": {
+                    "area": "varthu",
+                    "city": "bangalore",
+                    "direction": {
+                        "lan": "60",
+                        "lat": "56"
+                    },
+                    "doorNo": "#84",
+                    "floor": "1st",
+                    "landmark": "near lakshmi gym",
+                    "nationlity": "indian",
+                    "pincode": "560087",
+                    "state": "karnataka",
+                    "street": "kote bheedi 4th"
+                },
+                "email": "asdas@sdas.com",
+                "name": "mediplus",
+                "phoneNumber": "7795929033",
+                "timings": {
+                    "fri": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "mon": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sat": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "sun": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "thur": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "tues": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }],
+                    "wed": [null, {
+                        "end": "3 Pm",
+                        "start": "8 Am"
+                    }]
+                },
+                "website": "www.narayan.com"
+            }
+        }
+    },
+    "userInfo": {
+        "-KasD7V3dugNdyItuIq1": {
+            "address": {
+                "area": "varthu",
+                "city": "bangalore",
+                "direction": {
+                    "lan": "60",
+                    "lat": "56"
+                },
+                "doorNo": "#84",
+                "floor": "1st",
+                "landmark": "near lakshmi gym",
+                "nationlity": "indian",
+                "pincode": "560087",
+                "state": "karnataka",
+                "street": "kote bheedi 4th"
+            },
+            "mobile": 7795929033
+        }
+    },
+    "vets": {
+        "-KarnBllK558E-GtNc7b": {
+            "address": {
+                "area": "varthu",
+                "city": "bangalore",
+                "direction": {
+                    "lan": "60",
+                    "lat": "56"
+                },
+                "doorNo": "#84",
+                "floor": "1st",
+                "landmark": "near lakshmi gym",
+                "nationlity": "indian",
+                "pincode": "560087",
+                "state": "karnataka",
+                "street": "kote bheedi 4th"
+            },
+            "designation": "consultant",
+            "email": "muralim@gmail.com",
+            "experience": "5 years",
+            "hospitals": {
+                "colambia": true,
+                "narayana": true
+            },
+            "mobile": "7795929033",
+            "name": "murali",
+            "qualification": "mbbs"
+        },
+        "-KarnSi8CIFayIMIoXc-": {
+            "address": {
+                "area": "varthu",
+                "city": "bangalore",
+                "direction": {
+                    "lan": "60",
+                    "lat": "56"
+                },
+                "doorNo": "#84",
+                "floor": "1st",
+                "landmark": "near lakshmi gym",
+                "nationlity": "indian",
+                "pincode": "560087",
+                "state": "karnataka",
+                "street": "kote bheedi 4th"
+            },
+            "designation": "consultant",
+            "email": "muralim@gmail.com",
+            "experience": "5 years",
+            "hospitals": {
+                "colambia": true,
+                "narayana": true
+            },
+            "mobile": "7795929033",
+            "name": "murali",
+            "qualification": "mbbs"
+        }
+    },
+    "vetsHospitalInfo": {
+        "-KarnBllK558E-GtNc7b": {
+            "colambia": {
+                "active": true,
+                "charge": "500 rs",
+                "fri": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "mon": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "sat": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "sun": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "thur": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "tues": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "wed": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }]
+            },
+            "narayana": {
+                "active": true,
+                "charge": "500 rs",
+                "fri": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "mon": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "sat": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "sun": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "thur": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "tues": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }],
+                "wed": [null, {
+                    "end": "3 Pm",
+                    "start": "8 Am"
+                }]
+            }
+        }
+    }
+}
