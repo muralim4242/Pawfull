@@ -37,16 +37,14 @@ export var Footer = React.createClass({
 
                             </div>
 
-                            <div className="col-md-3 ">
+                            <div className="col-md-3">
                                 <br></br>
                                 <br></br>
                                 <h4>Explore</h4>
                                 <br></br>
                                 <div className="row">
                                     <div className="col-md-6 ">
-                                        <ul style={{
-                                            listStyleType: "none"
-                                        }}>
+                                        <ul className="listNone">
                                             <li>Vets</li>
                                             <br></br>
                                             <li>Hospitals</li>
@@ -57,17 +55,13 @@ export var Footer = React.createClass({
                                         </ul>
                                     </div>
                                     <div className="col-md-6 text-left">
-                                        <ul style={{
-                                            listStyleType: "none"
-                                        }}>
+                                        <ul className="listNone">
                                             <li>FAQ</li>
                                             <br></br>
                                             <li>Privacy Policy</li>
                                             <br></br>
                                             <li>
-                                                <span style={{
-                                                    color: "green"
-                                                }}>Contact Us</span>
+                                                <span className="green">Contact Us</span>
                                             </li>
                                         </ul>
                                     </div>

@@ -35,7 +35,7 @@ export var SearchTab = React.createClass({
                     <div className="container">
                       <div className="row text-center">
                           <div className="col-md-6 col-md-offset-3">
-                              <ul className="nav nav-justified" role="tablist">
+                              <ul className="nav nav-pills nav-justified" role="tablist">
                                   <li role="presentation">
                                       <a href="#vets" aria-controls="vets" role="tab" data-toggle="tab">VETS</a>
                                   </li>
