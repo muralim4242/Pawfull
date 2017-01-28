@@ -9,7 +9,7 @@ export var Footer = React.createClass({
         return (
             <div className="container_fluid">
                 <footer className="section-image" style={{
-                    background: `url(${require('app/images/Rectangle-9.jpg')})`,
+                    backgroundImage: `url(${require('app/images/Rectangle-9.jpg')})`,
                     minHeight: 25 + 'em'
                 }}>
                     <div className="container">
@@ -17,7 +17,7 @@ export var Footer = React.createClass({
                             <div className="col-md-3 col-md-offset-1">
                                 <br></br>
 
-                                <h3>PAW<span style={{color: "green"}}>FULL</span>
+                                <h3>PAW<span className="green">FULL</span>
                                 </h3>
                                 <br></br>
                                 <p>jh hddewu dwe hddwd dnwd deu ddnnwe dnde de wee we efeff jddh euuh n ery nxshde eehbfeeyrf sdew dduef hhdeww efnfe bf eeu dduwefb bdweyb y webduy wwedydye</p>

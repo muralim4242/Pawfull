@@ -9,7 +9,7 @@ import Dialog from 'material-ui/Dialog';
 import FlatButton from 'material-ui/FlatButton';
 import RefreshIndicator from 'material-ui/RefreshIndicator';
 import Snackbar from 'material-ui/Snackbar';
-import {firebaseDBRef, firebaseSTRRef} from 'app/firebase/';
+// import {firebaseDBRef, firebaseSTRRef} from 'app/firebase/';
 
 const style = {
     container: {
@@ -99,7 +99,7 @@ export var Main = React.createClass({
             }
         };
         return (
-            <div>
+            <div className="container-fluid">
                 <div>
                     <HeaderAndNav/>
                     <div>{props.children}</div>
