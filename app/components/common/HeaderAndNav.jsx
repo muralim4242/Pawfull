@@ -64,7 +64,7 @@ export var HeaderAndNav = React.createClass({
                                           <a href="#">Contact</a>
                                       </li>
                                       <li>
-                                          <a href="#">Login</a>
+                                          <a data-toggle="modal" data-target="#login" href="#">Login</a>
                                       </li>
 
                                   </ul>
@@ -76,6 +76,20 @@ export var HeaderAndNav = React.createClass({
                   </nav>
 
               </header>
+
+
+
+                  <div className="modal fade" id="login" tabIndex="-1" role="dialog" aria-labelledby="myModalLabel">
+                    <div className="modal-dialog" role="document">
+                      <div className="modal-content">
+
+                        <div className="modal-body">
+                          body
+                        </div>
+                      
+                      </div>
+                    </div>
+                  </div>
             </div>
         )
     }
