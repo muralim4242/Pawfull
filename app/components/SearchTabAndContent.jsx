@@ -3,7 +3,7 @@ import * as Redux from 'react-redux';
 
 import * as actions from 'actions';
 
-import SearchTab from 'SearchTab';
+import HeaderImageWithSearchTab from 'HeaderImageWithSearchTab';
 import Content from 'Content';
 
 import TextField from 'material-ui/TextField';
@@ -12,7 +12,7 @@ export var SearchTabAndContent = React.createClass({
     render() {
         return (
             <div className="container_fluid">
-                <SearchTab/>
+                <HeaderImageWithSearchTab/>
                 <Content/>
             </div>
         )

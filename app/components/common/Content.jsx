@@ -38,7 +38,7 @@ export var Content = React.createClass({
                     }}>
                     <div className="container">
                         <div className="page-header text-center">
-                            <h1 className="bBottom yellow">BLOG</h1>
+                            <h1 className="border-yellow">BLOG</h1>
                         </div>
                         <div className="row">
                             <div className="col-md-3">
