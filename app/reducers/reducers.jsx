@@ -60,6 +60,25 @@ export var authReducer = (state = {
     }
 };
 
+export var resultReducer = (state = {
+    list: [],
+    data: {},
+    isDeleteModalOpen: false
+}, action) => {
+    switch (action.type) {
+        case 'SET_RESULT_DATA':
+            return Object.assign({}, state, {list: action.list});
+            break;
+        case 'SET_IND_RESULT_DATA':
+            return Object.assign({}, state, {data: action.data});
+            break;
+        case 'SET_DELETE_MODAL_STATE':
+            return Object.assign({}, state, {isDeleteModalOpen: action.isDeleteModalOpen});
+            break;
+        default:
+            return state;
+    }
+};
 
 
 export const formReducer = (state = {
@@ -75,8 +94,9 @@ export const formReducer = (state = {
             return {
                 ...state,
                 form: action.data,
-                fieldErrors: {},
-                validationData: action.validationData
+                fieldErrors: action.fieldErrors,
+                validationData: action.validationData,
+                isFormValid:action.isFormValid
             }
 
         case "HANDLE_CHANGE":
@@ -151,10 +171,13 @@ export const formReducer = (state = {
                 ...state,
                 fieldErrors: action.errors
             }
+
         default:
             return state;
     }
 }
+
+
 
 function validate(isRequired, pattern, name, value, validationData) {
     let errorText = "";

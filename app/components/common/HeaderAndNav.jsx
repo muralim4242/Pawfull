@@ -84,7 +84,7 @@ export var HeaderAndNav = React.createClass({
                             <div className="modal-body padding-zero">
                                 <div className="row">
 
-                                    <div className="col-md-5 section-image-2" style={{
+                                    <div className="col-md-5 col-sm-4 col-xs-4 section-image-2" style={{
                                         backgroundImage: `url(${require('app/images/login-left-image-cut.jpg')})`
                                     }}>
                                       <div className="text-center login-left-layout">
@@ -97,15 +97,15 @@ export var HeaderAndNav = React.createClass({
                                       </div>
 
                                     </div>
-                                  <div className="col-md-7 login_right section-image-2">
+                                  <div className="col-md-7 col-sm-8 col-xs-8 login_right section-image-2">
                                         <div className="login-right-section">
                                             <div className="row">
-                                                <div className="col-md-2">
+                                                <div className="col-md-2 col-sm-2 col-xs-12">
                                                     <span className="green">
                                                         <h4><strong>Login</strong></h4>
                                                     </span>
                                                 </div>
-                                                <div className="col-md-10">
+                                                <div className="col-md-10 col-sm-10">
                                                     <h4 className="pull-right black">Don't have an account? <span className="green">Sign up</span></h4>
                                                 </div>
                                             </div>
@@ -130,10 +130,10 @@ export var HeaderAndNav = React.createClass({
                                                 <br/>
 
                                                   <div className="row">
-                                                      <div className="col-md-3">
+                                                      <div className="col-md-3 col-sm-2 col-xs-12">
                                                           <button className="btn btn-success radius-zero" type="text">Login</button>
                                                       </div>
-                                                      <div className="col-md-9">
+                                                      <div className="col-md-9 col-sm-10">
                                                           <h4 className="pull-right black">Forgot <span className="green">Password ?</span></h4>
                                                       </div>
                                                   </div>

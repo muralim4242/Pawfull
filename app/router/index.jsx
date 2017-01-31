@@ -8,7 +8,7 @@ import Main from 'Main';
 
 // import SearchScreen from "SearchScreen";
 import SearchTabAndContent from "SearchTabAndContent";
-
+import SearchResultList from "SearchResultList";
 //import firebase from 'app/firebase/';
 
 // var requireLogin = (nextState, replace, next) => {
@@ -30,9 +30,7 @@ export default(
     <Router history={hashHistory}>
             <Route path="/" component={Main}>
                 <IndexRoute component={SearchTabAndContent}/>
+                <Route path="/SearchResultList/:searchType" component={SearchResultList}/>
             </Route>
     </Router>
 );
-
-
-  // <IndexRoute component={Login}/>
